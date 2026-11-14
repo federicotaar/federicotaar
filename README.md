@@ -32,7 +32,7 @@ I'm a computer science student in Ferrara and the developer behind Fredrich Labs
 
 <a href="https://github.com/federicotaar/atlas"><picture><source media="(max-width: 640px)" srcset="assets/card-atlas-m.svg?v=3"><img src="assets/card-atlas.svg?v=3" alt="ATLAS - personal intelligence system with verifiable memory, in development" width="100%"></picture></a>
 
-**In development:** memory with verifiable sources, hybrid retrieval, agents, predictions, time machine and dashboard - runs locally at zero cost, connectors still mocked; phases 0-5 of 6 implemented and CI green, public repo.
+**In development:** memory with verifiable sources, hybrid retrieval, agents, predictions, time machine and dashboard - runs locally at zero cost, connectors validated with synthetic fixtures; phases 0-5 of 6 implemented and CI green, public repo.
 
 <img src="assets/divider.svg" alt="" width="100%">
 
