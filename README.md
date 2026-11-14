@@ -16,6 +16,8 @@ I'm a computer science student in Ferrara and the developer behind Fredrich Labs
 
 <a href="https://github.com/federicotaar/NOVA-ios"><picture><source media="(max-width: 640px)" srcset="assets/card-nova-m.svg"><img src="assets/card-nova.svg" alt="NOVA - school dashboard app for iPhone and Android" width="100%"></picture></a>
 
+**Finished:** open to bug reports only - [all releases](https://github.com/federicotaar/NOVA-ios/releases).
+
 <a href="https://github.com/federicotaar/car-flopper"><picture><source media="(max-width: 640px)" srcset="assets/card-carflopper-m.svg"><img src="assets/card-carflopper.svg" alt="Car Flopper - co-op 3D garage game for iPhone" width="100%"></picture></a>
 
 <a href="https://github.com/federicotaar/mike"><picture><source media="(max-width: 640px)" srcset="assets/card-mike-m.svg"><img src="assets/card-mike.svg" alt="Mike - personal AI agent for iPhone" width="100%"></picture></a>
