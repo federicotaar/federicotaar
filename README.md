@@ -1,4 +1,4 @@
-<a href="https://federicotaranu.com"><picture><source media="(max-width: 640px)" srcset="assets/v5/2-v5-banner-m.svg"><img src="assets/v5/1-v5-banner.svg" alt="Federico Taranu, Fredrich Labs" width="100%"></picture></a>
+<a href="https://federicotaranu.com"><picture><source media="(max-width: 640px)" srcset="assets/v6/2-v6-banner-m.svg"><img src="assets/v6/1-v6-banner.svg" alt="Federico Taranu, Fredrich Labs" width="100%"></picture></a>
 
 I'm an IT student in Ferrara and the developer behind Fredrich Labs, where I build iPhone apps, games and desktop tools. I work mainly in Swift, with Cloudflare and Python on the backend. Everything below is public, and each project ships without paid services behind it.
 
