@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="170" viewBox="0 0 880 170">
+  <style>
+    .shine { animation: sweep 8s ease-in-out 0.0s infinite; opacity: 0; }
+    @keyframes sweep { 0% { transform: translateX(-160px); opacity: 0; } 7% { opacity: .6; } 24% { transform: translateX(1040px); opacity: 0; } 100% { transform: translateX(1040px); opacity: 0; } }
+    .grid { animation: pan 18s linear infinite; }
+    @keyframes pan { from { transform: translate(0,0); } to { transform: translate(48px,48px); } }
+  </style>
+  <defs><pattern id="dots" width="48" height="48" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1.5" fill="#C8F04A" opacity="0.05"/></pattern><linearGradient id="shineg" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset="0.5" stop-color="#fff" stop-opacity="0.08"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient><clipPath id="card"><rect width="880" height="170" rx="18"/></clipPath></defs>
+  <rect width="880" height="170" rx="18" fill="#0C0E11"/>
+  <rect width="880" height="170" rx="18" fill="none" stroke="#FFFFFF" stroke-opacity="0.05"/>
+  <g clip-path="url(#card)"><rect class="grid" x="-48" y="-48" width="976" height="266" fill="url(#dots)"/></g>
+  <g clip-path="url(#card)"><rect class="shine" x="0" y="-20" width="140" height="210" fill="url(#shineg)" transform="skewX(-18)"/></g>
+  <g transform="translate(26,37)"><rect width="96" height="96" rx="22" fill="#14161A" stroke="#C8F04A" stroke-opacity="0.28"/><rect x="1.5" y="1.5" width="93" height="93" rx="21" fill="none" stroke="#FFFFFF" stroke-opacity="0.04"/><path d="M78,14 l3,7 7,3 -7,3 -3,7 -3,-7 -7,-3 7,-3 z" fill="#C8F04A" opacity=".9"/><text x="48.0" y="64.56" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="46" font-weight="700" fill="#C8F04A">N</text></g>
+  <text x="150" y="66" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="30" font-weight="700" fill="#F4F1E9">NOVA</text>
+  <text x="150" y="96" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="15.5" fill="#A7AEBB">School dashboard for iPhone and Android: homework,</text>
+  <text x="150" y="119" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="15.5" fill="#A7AEBB">grades, timetable, widgets and an AI study assistant</text>
+  <rect x="150" y="133" width="51.65" height="22" rx="11.0" fill="#C8F04A" fill-opacity="0.05" stroke="#C8F04A" stroke-opacity="0.22"/><text x="175.825" y="148.14" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="11.5" font-weight="600" fill="#BCEA44">Swift</text><rect x="209.65" y="133" width="65.91" height="22" rx="11.0" fill="#C8F04A" fill-opacity="0.05" stroke="#C8F04A" stroke-opacity="0.22"/><text x="242.60500000000002" y="148.14" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="11.5" font-weight="600" fill="#BCEA44">SwiftPM</text><rect x="283.56" y="133" width="115.82" height="22" rx="11.0" fill="#C8F04A" fill-opacity="0.05" stroke="#C8F04A" stroke-opacity="0.22"/><text x="341.47" y="148.14" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="11.5" font-weight="600" fill="#BCEA44">GitHub Actions</text>
+  <rect x="745" y="26" width="111" height="28" rx="14.0" fill="#C8F04A" fill-opacity="0.06" stroke="#C8F04A" stroke-opacity="0.55"/><text x="800.5" y="44.5" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="12.5" font-weight="600" fill="#C8F04A" letter-spacing="1.5">COMPLETED</text>
+  <text x="856" y="150" text-anchor="end" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="12.5" fill="#6B7280">federicotaar/NOVA-ios &#8599;</text>
+</svg>
