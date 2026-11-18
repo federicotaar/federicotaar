@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="640" height="104" viewBox="0 0 640 104">
-  <style>.grid { animation: pan 16s linear infinite; } @keyframes pan { from { transform: translate(0,0); } to { transform: translate(48px,48px); } }</style>
-  <defs><pattern id="dots" width="48" height="48" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1.5" fill="#C8F04A" opacity="0.06"/></pattern></defs>
-  <rect width="640" height="104" rx="16" fill="#0C0E11"/>
-  <rect class="grid" x="-48" y="-48" width="736" height="200" fill="url(#dots)"/>
-  <rect x="24" y="30" width="6" height="44" rx="3" fill="#C8F04A"/>
-  <text x="46" y="48" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="15" font-weight="600" fill="#BCEA44" letter-spacing="3">03 / CONTACT</text>
-  <text x="45" y="82" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="34" font-weight="700" fill="#F4F1E9">Contact</text>
-</svg>
