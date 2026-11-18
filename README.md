@@ -1,4 +1,4 @@
-<a href="https://federicotaranu.com"><picture><source media="(max-width: 640px)" srcset="assets/18-v4-banner-m.svg"><img src="assets/1-v4-banner.svg" alt="Federico Taranu, Fredrich Labs" width="100%"></picture></a>
+<a href="https://federicotaranu.com"><picture><source media="(max-width: 640px)" srcset="assets/v5/2-v5-banner-m.svg"><img src="assets/v5/1-v5-banner.svg" alt="Federico Taranu, Fredrich Labs" width="100%"></picture></a>
 
 I'm an IT student in Ferrara and the developer behind Fredrich Labs, where I build iPhone apps, games and desktop tools. I work mainly in Swift, with Cloudflare and Python on the backend. Everything below is public, and each project ships without paid services behind it.
 
@@ -16,16 +16,16 @@ I'm an IT student in Ferrara and the developer behind Fredrich Labs, where I bui
 <a href="https://github.com/federicotaar/VERSO"><picture><source media="(max-width: 640px)" srcset="assets/9-v4-card-verso-m.svg"><img src="assets/8-v4-card-verso.svg" alt="VERSO - synced lyrics for macOS, Ubuntu and Windows" width="100%"></picture></a>
 <sub>**Finished:** free and open source, no Spotify Premium needed - [all releases](https://github.com/federicotaar/VERSO/releases).</sub>
 
-<a href="https://github.com/federicotaar/atlas"><picture><source media="(max-width: 640px)" srcset="assets/11-v4-card-atlas-m.svg"><img src="assets/10-v4-card-atlas.svg" alt="ATLAS - personal intelligence system" width="100%"></picture></a>
+<a href="https://github.com/federicotaar/atlas"><picture><source media="(max-width: 640px)" srcset="assets/v5/4-v5-card-atlas-m.svg"><img src="assets/v5/3-v5-card-atlas.svg" alt="ATLAS - personal intelligence system" width="100%"></picture></a>
 <sub>**In development:** phases 0-5 of 6 implemented and green in CI; connectors validated with synthetic fixtures.</sub>
 
-<a href="https://github.com/federicotaar/Bool"><picture><source media="(max-width: 640px)" srcset="assets/13-v4-card-bool-m.svg"><img src="assets/12-v4-card-bool.svg" alt="Bool - iOS customization toolbox" width="100%"></picture></a>
+<a href="https://github.com/federicotaar/Bool"><picture><source media="(max-width: 640px)" srcset="assets/v5/6-v5-card-bool-m.svg"><img src="assets/v5/5-v5-card-bool.svg" alt="Bool - iOS customization toolbox" width="100%"></picture></a>
 <sub>**Active:** unsigned IPA in [releases](https://github.com/federicotaar/Bool/releases), sideload with AltStore, SideStore or Sideloadly.</sub>
 
-<a href="https://github.com/federicotaar/study-buddy"><picture><source media="(max-width: 640px)" srcset="assets/15-v4-card-studybuddy-m.svg"><img src="assets/14-v4-card-studybuddy.svg" alt="Study Buddy - offline pomodoro timer and task list" width="100%"></picture></a>
+<a href="https://github.com/federicotaar/study-buddy"><picture><source media="(max-width: 640px)" srcset="assets/v5/8-v5-card-studybuddy-m.svg"><img src="assets/v5/7-v5-card-studybuddy.svg" alt="Study Buddy - offline pomodoro timer and task list" width="100%"></picture></a>
 <sub>**Finished:** client-side only, MIT licensed - [try it](https://github.com/federicotaar/study-buddy).</sub>
 
-<a href="https://github.com/federicotaar/bluey-ai-linux"><picture><source media="(max-width: 640px)" srcset="assets/17-v4-card-bluey-m.svg"><img src="assets/16-v4-card-bluey.svg" alt="Bluey Desktop - Ubuntu and Windows port" width="100%"></picture></a>
+<a href="https://github.com/federicotaar/bluey-ai-linux"><picture><source media="(max-width: 640px)" srcset="assets/v5/10-v5-card-bluey-m.svg"><img src="assets/v5/9-v5-card-bluey.svg" alt="Bluey Desktop - Ubuntu and Windows port" width="100%"></picture></a>
 <sub>**Active:** desktop bundles built in CI; original project by [rbrown101010](https://github.com/rbrown101010/bluey-by-riley).</sub>
 
 <picture><source media="(max-width: 640px)" srcset="assets/22-v4-h-stack-m.svg"><img src="assets/21-v4-h-stack.svg" alt="Tech stack" width="100%"></picture>
